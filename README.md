@@ -1,4 +1,4 @@
-# Hi there, I'm Gicehajunior 👋  
+# Hi there, I'm Giceha Junior 👋  
 
 Welcome to my GitHub profile! I'm a passionate developer with an interest in building impactful and innovative solutions. Here's a bit about me:  
 
