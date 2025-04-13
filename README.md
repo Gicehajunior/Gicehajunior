@@ -32,6 +32,7 @@
 ![Toastr](https://img.shields.io/badge/Toastr-1E9A5A?style=for-the-badge&logo=toastr&logoColor=white)
 ![Print.js](https://img.shields.io/badge/Print.js-6A4E1F?style=for-the-badge&logo=print.js&logoColor=white)
 ![DataTables](https://img.shields.io/badge/DataTables-336791?style=for-the-badge&logo=datatables&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## 📦 Others & Dev Tools
 
