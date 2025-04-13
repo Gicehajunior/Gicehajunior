@@ -11,7 +11,7 @@
 
 - 💼 Self-employed Software Engineer building **SaaS platforms** like [Nesthub](https://nesthub.daphascomp.com).
 - 🌱 Lifelong learner & problem solver, always seeking better ways to optimize web applications.
-- 🏗️ Currently working on a **Learning React Frontend framework & Docker, ** for more professional skills.
+- 🏗️ Currently working on a **Learning React Frontend framework & Docker,** for more professional skills.
 - 💬 Open to discussions on **rental tech**, **property automation & Investments**, and **eco-digital businesses**.
 
 ---
