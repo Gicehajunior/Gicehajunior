@@ -84,6 +84,13 @@
 
 ---
 
+<div align="center" style="display: flex; justify-content: space-between; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gicehajunior&show_icons=true&count_private=true&hide=prs&hide_title=true&hide_border=true&theme=radical" alt="GitHub Stats" style="width: 48%; height: 200px; object-fit: cover;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gicehajunior&langs_count=10&layout=compact&theme=radical&hide_title=true&hide_border=true" alt="Top Languages" style="width: 48%; height: 200px; object-fit: cover;">
+</div>
+
+---
+
 ## 📫 Let’s Connect
 
 [![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail&logoColor=white)](mailto:gicehajunior76@gmail.com)
