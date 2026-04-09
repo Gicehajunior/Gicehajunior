@@ -12,7 +12,7 @@ I design modular, configuration-driven architectures that solve real-world probl
 |----------|--------------|
 | **Languages** | PHP, Dart, SQL, JavaScript |
 | **Mobile** | Flutter, Riverpod, Dio, JWT |
-| **Backend** | Laravel, SelfPHP Framework, REST APIs |
+| **Backend** | Node Js, Python, Laravel, SelfPHP Framework, REST APIs |
 | **Frontend** | Bootstrap 4/5, JavaScript, DataTables |
 | **Database** | MySQL, SQLite, Eloquent ORM |
 | **Integrations** | OpenAI API, Meta/WhatsApp Business API, M-Pesa |
