@@ -1,106 +1,98 @@
-<h1 align="center">Hi there! I'm Bernard 👋</h1>
+## 👋 Hello, I'm Giceha Junior
 
-<p align="center">
-  <b>Software Engineer | Web App Optimizer | SaaS Builder</b><br>
-  Passionate about turning ideas into scalable tech solutions 🚀
-</p>
+**System Architect & Full-Stack Developer/Engineer** building scalable financial ecosystems, property management solutions, and educational tools from Nairobi, Kenya.
 
----
-
-## 👨‍💻 About Me
-
-- 💼 Self-employed Software Engineer building **SaaS platforms** like [Nesthub](https://nesthub.daphascomp.com).
-- 🌱 Lifelong learner & problem solver, always seeking better ways to optimize web applications.
-- 🏗️ Currently working on a **Learning React Frontend framework & Docker,** for more professional skills.
-- 💬 Open to discussions on **rental tech**, **property automation & Investments**, and **eco-digital businesses**.
+I design modular, configuration-driven architectures that solve real-world problems - from mobile payment capture to language preservation.
 
 ---
 
-## 🔧 Tech Stack & Tools
+### 🛠️ Technical Toolkit
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005E87?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![Toastr](https://img.shields.io/badge/Toastr-1E9A5A?style=for-the-badge&logo=toastr&logoColor=white)
-![Print.js](https://img.shields.io/badge/Print.js-6A4E1F?style=for-the-badge&logo=print.js&logoColor=white)
-![DataTables](https://img.shields.io/badge/DataTables-336791?style=for-the-badge&logo=datatables&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-## 📦 Others & Dev Tools
-
-### 🧰 Developer Tools & CI/CD  
-- 🐙 **Git & GitHub** – Version control & code hosting  
-- 🐳 **Docker** – Containerized development & deployments  
-- ⚡ **Postman** – API testing & documentation  
-- 🔧 **Apache** – High-performance web server 
-- 📦 **Webpack** – Module bundler for frontend workflows
+| Category | Technologies |
+|----------|--------------|
+| **Languages** | PHP, Dart, SQL, JavaScript |
+| **Mobile** | Flutter, Riverpod, Dio, JWT |
+| **Backend** | Laravel, SelfPHP Framework, REST APIs |
+| **Frontend** | Bootstrap 4/5, JavaScript, DataTables |
+| **Database** | MySQL, SQLite, Eloquent ORM |
+| **Integrations** | OpenAI API, Meta/WhatsApp Business API, M-Pesa |
+| **Architecture** | MVC, Repository Pattern, Modular Design |
 
 ---
 
-### 🧪 Testing Libraries & Tools  
-- ✅ **PHPUnit** – Unit testing for PHP applications   
-- 🔬 **Jest** – Delightful JavaScript testing  
+### 🚀 Featured Projects
+
+#### 🏢 Nesthub Global
+*Property management & fintech ecosystem*
+
+- Automated financial modules with real-time mobile payment capture
+- Landlord/tenant ledger synchronization
+- Lease management with unit tracking and digital agreements
+- Meta WhatsApp Business API integration for automated client communication
+- JWT-based authentication with session validation
+- Multi-role permission system (admin, agent, tenant, landlord)
+
+*Stack: Flutter + PHP | 3+ repos*
 
 ---
 
-### 🧬 Custom Frameworks & Internal Tools  
-- 🧠 **xfixcore** – Custom Electron + Node.js desktop framework  
-- 🚀 **mex (MyExpress)** – Lightweight Node.js & Express js framework  
-- 🐘 **SelfPHP** – Personal PHP micro-framework for Web
-- 🐍 **SproutePy** – Minimalist Python web micro-framework for Web
+#### 📚 SYO Dictionary
+*Kikuyu language digital preservation*
 
-> 🛠️ I build frameworks tailored for performance, simplicity, and real-world scalability — combining control with clean architecture for every use case.
+- Mobile interface for word categories, translations, and pronunciation
+- Multi-language translation support
+- IPA phonetic transcription engine
+- Hierarchical category system with slug-based URLs
+- JWT-secured API endpoints with server token validation
+- Searchable linguistic database
 
----
-
-## 📌 Featured Projects
-
-### 🏠 NestHub (Formerly, RMS Global) – Rental Management SaaS  
-> A comprehensive rental automation suite for agencies and landlords  
-> ⬛ Payments, Invoicing, Subscriptions  
-> 🔐 User Roles & Permissions  
-> 🧩 Chat, Meetings, Communication Modules  
-> 🛠️ Status: Live and growing  
-
-[🔗 View Project](https://nesthub.daphascomp.com) • [💬 Request Demo](https://nesthub.daphascomp.com/contact-us)
+*Stack: Flutter + PHP | 3+ repos*
 
 ---
 
-## 🧠 Recent Highlights
+#### 💼 Daphas POS
+*Point of Sale & business management system*
 
-- 🔄 Added payment reversals (with/without footprints) to RMS
-- 🏷️ Implemented `notification_templates` for multichannel alerts (Email, SMS, WhatsApp)
-- 📅 Introduced landlord meeting scheduler
-- 🔎 Built logical filters for rent vs expense queries
-- 📈 Optimized transaction grouping by reference ID
+- AI-powered content generation (OpenAI integration)
+- Diet and workout plan generators
+- Stock management with purchase, adjustment, and transfer modules
+- POS receipt system with slim templates
+- Multi-language support (15+ languages)
+- Modular architecture with installable modules
+
+*Stack: Laravel + Bootstrap + jQuery*
 
 ---
 
-<div align="center" style="display: flex; justify-content: space-between; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gicehajunior&show_icons=true&count_private=true&hide=prs&hide_title=true&hide_border=true&theme=radical" alt="GitHub Stats" style="width: 48%; height: 200px; object-fit: cover;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gicehajunior&langs_count=10&layout=compact&theme=radical&hide_title=true&hide_border=true" alt="Top Languages" style="width: 48%; height: 200px; object-fit: cover;">
+### 📈 Current Focus
+
+- **Scaling Nesthub** – Stabilizing payment repositories and refining property manager UX
+- **Meta App Review** – Navigating WhatsApp Business API integration for business automation
+- **Modularization** – Refactoring legacy code into clean, repository-based patterns
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gicehajunior&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+![PHP](https://img.shields.io/badge/PHP-8.2%2B-777BB4?style=flat&logo=php)
+![Dart](https://img.shields.io/badge/Dart-3.x-0175C2?style=flat&logo=dart)
+![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?style=flat&logo=flutter)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=flat&logo=javascript)
+![SQL](https://img.shields.io/badge/SQL-MySQL%2FPostgreSQL-4479A1?style=flat&logo=mysql)
+
 </div>
 
 ---
 
-## 📫 Let’s Connect
+### 📫 Connect
 
-[![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail&logoColor=white)](mailto:gicehajunior76@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernard-kung-u-081364199)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/17163036473)
-[![GitHub](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/Gicehajunior)
+- **Location:** Nairobi, Kenya
+- **Focus:** Full-Stack Development | System Architecture | Fintech Solutions
 
 ---
 
-<p align="center">
-  💡 "Building tech that works, scales, and simplifies life." 💡
-</p>
-
+> *"Code should be modular, logic should be centralized, and the architecture should speak for itself."*
