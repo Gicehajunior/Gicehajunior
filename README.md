@@ -1,8 +1,10 @@
 ## 👋 Hello, I'm Giceha Junior
 
-**System Architect & Full-Stack Developer/Engineer** building scalable financial ecosystems, property management solutions, and educational tools from Nairobi, Kenya.
+**System Architect & Full-Stack Developer/Engineer** building everything buildable under XFIX Global Limited — from financial ecosystems and property management platforms to educational tools and beyond.
 
-I design modular, configuration-driven architectures that solve real-world problems - from mobile payment capture to language preservation.
+Based in Nairobi, Kenya, I design modular, configuration-driven architectures that solve real-world problems, spanning mobile payment systems, enterprise platforms, and language preservation tools and more.
+
+I’m also available for hire.
 
 ---
 
