@@ -2,7 +2,7 @@
 
 **System Architect & Full-Stack Developer/Engineer** building everything buildable under XFIX Global Limited — from financial ecosystems and property management platforms to educational tools and beyond.
 
-Based in Nairobi, Kenya, I design modular, configuration-driven architectures that solve real-world problems, spanning mobile payment systems, enterprise platforms, and language preservation tools and more.
+Based in Nairobi, Kenya, I design modular, configuration-driven architectures that solve real-world problems, spanning mobile payment systems, enterprise platforms, language preservation tools and more.
 
 I’m also available for hire.
 
